@@ -3,7 +3,7 @@
 // Define preferred palette for light and dark mode
 // Available themes: latte, frappe, mocha, macchiato
 const preferredLightTheme = latte;
-const preferredDarkTheme = macchiato;
+const preferredDarkTheme = mocha;
 
 let palette = initThemeSystem(preferredLightTheme, preferredDarkTheme);
 
@@ -32,9 +32,6 @@ const default_configuration = {
       g: ["https://google.com/search?q=", "Google"],
     },
     default: "d",
-  },
-  keybindings: {
-    "s": "search-bar",
   },
   disabled: [],
   localIcons: true,
