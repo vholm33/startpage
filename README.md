@@ -37,7 +37,7 @@ A minimalistic and customisable startpage featuring the [**Catppuccin palettes**
 
 ## 🎨 Supported Palettes
 
-- Latte
+- Latte 
 - Frappé
 - Macchiato
 - Mocha
